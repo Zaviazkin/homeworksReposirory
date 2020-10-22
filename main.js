@@ -16,6 +16,12 @@ console.log(i);
 console.log('\n через while от 11 до 33 \n');
 let b = 11;
 
+
+
+
+
+
+
 while (b <= 33) {
   console.log(b);
   b++;
